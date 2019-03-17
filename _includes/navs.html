@@ -1,0 +1,8 @@
+<nav>
+<div style="text-align: center; font-size: 20px">
+{% for item in site.data.navs %}
+	<a href="{{item.link}}" >{{item.name}}</a>
+	<br><br>
+{% endfor %}
+</div>
+</nav>
