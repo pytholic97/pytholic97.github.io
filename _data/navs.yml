@@ -1,7 +1,7 @@
 - name: About me
   link: /about.html
 - name: Contact Me
-  link: /contact.md
+  link: /contacts.html
 - name: README
   link: /README.md
 - name: Home
