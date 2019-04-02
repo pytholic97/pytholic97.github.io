@@ -1,6 +1,6 @@
 # Personal Website for Internet Technologies course
 
-[My personal website](pytholic97.github.io).
+[My personal website](https://pytholic97.github.io/).
 
 # Author
 
