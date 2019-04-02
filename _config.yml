@@ -1,3 +1,36 @@
-theme: jekyll-theme-slate
+# site settings
 title: Prathamesh Mandke
-description: ECE Undergrad at College of Engineering, Pune(CoEP).
+subtitle: by HTML5 UP
+email: mandkepk97@gmail.com
+description: ECE Undergraduate student at COEP.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: Bhosale nagar
+city: Pune
+state: MH
+zip_code: 07
+country: India
+phone: +91-775590xxxxx
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/pkmandke
+gitlab_url: https://gitlab.com/pytholic97
+googleplus_url:
+instagram_url:
+linkedin_url: https://linkedin.com/in/prathamesh-mandke-866866168/
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
