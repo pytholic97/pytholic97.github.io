@@ -1,0 +1,81 @@
+[33mcommit fe822b30d44ef861117376d604395fb79223b368[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Prathamesh Mandke <prathrules@gmail.com>
+Date:   Tue Apr 2 22:21:42 2019 +0530
+
+    remove 404
+
+[33mcommit 07633f97a8569f0f9785a08abedc7742eb6ac569[m
+Author: Prathamesh Mandke <prathrules@gmail.com>
+Date:   Tue Apr 2 22:10:51 2019 +0530
+
+    Update README
+
+[33mcommit 7640eab4273d5f1a161c1f011e5149476e7127ac[m
+Author: Prathamesh Mandke <prathrules@gmail.com>
+Date:   Tue Apr 2 22:01:54 2019 +0530
+
+    Initial commit
+
+[33mcommit 2bde494f8eb7ad053aa01e6f5f4d13c5e75d955c[m
+Author: Prathamesh Mandke <35221759+pytholic97@users.noreply.github.com>
+Date:   Thu Nov 15 19:09:00 2018 +0530
+
+    Added link to ANN code
+
+[33mcommit e363af364922e76d481209678ecc38521f56f96e[m
+Author: Prathamesh Mandke <35221759+pytholic97@users.noreply.github.com>
+Date:   Wed Nov 7 12:44:16 2018 +0530
+
+    Update README.md
+
+[33mcommit 8445afe0c9ff5b0a7511f4e79a89ce30483513a4[m
+Author: Prathamesh Mandke <35221759+pytholic97@users.noreply.github.com>
+Date:   Wed Nov 7 12:42:43 2018 +0530
+
+    Create README.md
+
+[33mcommit acc502fe660e0a87d29e327c08b47d3a5e2c05ac[m
+Author: Prathamesh Mandke <35221759+pytholic97@users.noreply.github.com>
+Date:   Wed Nov 7 12:14:28 2018 +0530
+
+    extended "about me"
+
+[33mcommit 73c3783fa4d8f9d2e3bd75376c934282f0ca8010[m
+Author: Prathamesh Mandke <35221759+pytholic97@users.noreply.github.com>
+Date:   Mon Nov 5 19:54:08 2018 +0530
+
+    added "about me" section
+
+[33mcommit a752b737c417a96c75eba0b2180722d701898fd2[m
+Author: Prathamesh Mandke <35221759+pytholic97@users.noreply.github.com>
+Date:   Tue Aug 21 23:43:44 2018 +0530
+
+    --amend
+
+[33mcommit dacbfabbc5834cade393b184abaf715098309919[m
+Author: Prathamesh Mandke <35221759+pytholic97@users.noreply.github.com>
+Date:   Tue Aug 21 23:33:39 2018 +0530
+
+    First commit
+    
+    Typo
+
+[33mcommit d0230212c0488ea2f5725d4ddee79f85a81aec00[m
+Author: Prathamesh Mandke <35221759+pytholic97@users.noreply.github.com>
+Date:   Tue Aug 21 23:31:04 2018 +0530
+
+    First commit
+    
+    Added title and description.
+
+[33mcommit ee657bd0960201a0c59d3e7a30c2c3eb07842849[m
+Author: Prathamesh Mandke <35221759+pytholic97@users.noreply.github.com>
+Date:   Tue Aug 21 23:28:34 2018 +0530
+
+    Update index.md
+
+[33mcommit cfb61788abb276982eb25a9ae3c0546fbfa502d4[m
+Author: Prathamesh Mandke <35221759+pytholic97@users.noreply.github.com>
+Date:   Tue Aug 21 23:26:18 2018 +0530
+
+    Set theme jekyll-theme-slate
